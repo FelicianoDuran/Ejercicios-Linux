@@ -32,8 +32,7 @@ ls /usr/bin/k?a*
 ```console
 ls /bin/*n
 ```
-Change the name of the directory test to test2. Create test3 at the same level in
-the directory tree as test2 and move all the files from test2 to test3. Delete test2.
+
 ## Ejercicio5
 -Display all the files in the directory /etc and all the files in every subdirectory
 recursively.
