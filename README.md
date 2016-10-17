@@ -48,6 +48,10 @@ the directory /bin to test. Create a duplicate of gzip named gzip2 inside test.
 ```console
 mkdir test
 ```
+```console
+cp /bin/gzip test
+```
+
 
 ## Ejercicio7
 -Change the name of the directory test to test2. Create test3 at the same level in
